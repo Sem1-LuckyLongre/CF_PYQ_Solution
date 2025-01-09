@@ -273,3 +273,24 @@ The block diagram of a computer includes the following components:
 **Detailed Explanation (Hinglish):**  
 - **Batch Processing:** Data ko groups mein process karna. Example: Salary calculation.  
 - **Multiprocessing aur Multiprogramming OS:** Multiprocessing mein multiple CPUs hote hain; multiprogramming mein ek CPU multiple tasks handle karta hai.  
+---
+
+
+### **Important Questions (Section A):**  
+1. **What is the unit for measuring the output quality of a printer? Discuss basic operations of a computer system.**  
+2. **How is volatile memory different from non-volatile memory? Give examples.**  
+3. **What do you understand by ASCII code? Write its full form.**  
+4. **Explain the terms:**  
+   - Flowchart  
+   - Algorithm  
+   - Compiler and Interpreter  
+5. **Draw and explain the function block diagram of a computer. Discuss the generations of computers in detail.**
+
+---
+
+### **Important Questions (Section B):**  
+1. **Write different types of printers. Explain any two types in detail. Also, explain five input and five output devices.**  
+2. **Explain the basic components of CPU with a block diagram.**  
+3. **Differentiate between primary and secondary memory. Discuss cache memory and system buses.**  
+4. **Differentiate application software and system software. Give examples. Also, explain 1's and 2's complement with examples.**  
+5. **What is batch processing? How is a multiprocessing OS different from a multiprogramming OS?**  
